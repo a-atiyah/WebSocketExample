@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WebSocketExample</string>
+    <string name="content_description_end_icon">End Icon</string>
+    <string name="enter">Enter</string>
+    <string name="type_user_name">Please, Type your name!</string>
+    <string name="gallery">gallery</string>
+    <string name="type_your_message_here">Type Your Message Here!</string>
+    <string name="connected">Connected!</string>
+    <string name="type_msg">Please, Type a Message!</string>
+    <string name="pick_img">Pick Image</string>
+    <string name="image">image</string>
+</resources>
