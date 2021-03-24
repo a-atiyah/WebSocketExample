@@ -65,6 +65,25 @@
                 android:background="@null"
                 android:layout_centerInParent="true"
                 android:contentDescription="@string/gallery" />
+
+            <ImageButton
+                android:id="@+id/ib_mic"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_baseline_mic_24"
+                android:layout_toEndOf="@id/ib_gallery"
+                android:layout_centerVertical="true"
+                android:contentDescription="@string/image"/>
+
+            <ImageButton
+                android:id="@+id/ib_ply"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_baseline_play_arrow_24"
+                android:layout_toEndOf="@id/ib_mic"
+                android:layout_centerVertical="true"
+                android:contentDescription="@string/image"/>
+
         </RelativeLayout>
     </androidx.cardview.widget.CardView>
 </LinearLayout>
